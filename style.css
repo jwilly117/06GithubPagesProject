@@ -1,0 +1,19 @@
+h1,h2{
+    color: white;
+    text-align: center;
+
+}
+body{
+    background-color: rgb(72, 72, 214);
+}
+img{
+    height: 75%;
+    width: 75%;
+    margin: auto;
+    display: block;
+}
+p{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
